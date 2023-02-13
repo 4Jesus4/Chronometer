@@ -1,0 +1,27 @@
+header{
+    font-family: monospace;
+    color: black;
+    font-size: 25px;
+    background-color: #2beaffcd;
+}
+div{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: #383838;
+    border-radius: 5px;
+    font-size: large;
+    padding: 5px;
+}
+p{
+    text-align: center;
+    font-family: monospace;
+    color:#2beaffcd;
+}
+button{
+    font-weight: bold;
+    background-color: black;
+    border-radius: 10px;
+    padding: 5px;
+    border:  2px solid #2beaffcd;
+    color:#2beaffcd;
+}
